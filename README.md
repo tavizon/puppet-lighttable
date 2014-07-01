@@ -1,6 +1,5 @@
 # LightTable
-
-[![Build Status](https://travis-ci.org/boxen/puppet-template.svg?branch=master)](https://travis-ci.org/boxen/puppet-template)
+Puppet Module for Boxen.
 
 ## Usage
 
