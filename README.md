@@ -1,5 +1,6 @@
 # LightTable
 Puppet Module for Boxen.
+[![Build Status](https://travis-ci.org/tavizon/puppet-lighttable.png?branch=master)](https://travis-ci.org/tavizon/puppet-lighttable)
 
 ## Usage
 
